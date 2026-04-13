@@ -1,7 +1,7 @@
 [submodule "6245879-blogverse-frontend"]
     path =  6245879-blogverse-frontend
-    url = git@github.com:cherenfantr/6245879-blogverse-frontend.git
+    url = https://github.com/cherenfantr/6245879-blogverse-frontend.git
 
 [submodule " 6245879-blogverse-backend"]
     path =  6245879-blogverse-backend
-    url = git@github.com:cherenfantr/6245879-blogverse-backend.git
+    url = https://github.com/cherenfantr/6245879-blogverse-backend.git
